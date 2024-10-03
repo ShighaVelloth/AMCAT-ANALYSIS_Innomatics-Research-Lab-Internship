@@ -19,16 +19,16 @@ The dataset contains around 40 independent variables and 4000 data points. The i
 
 3. Exploratory Data Analysis
 
- 3.1 Univariate Analysis
+        3.1 Univariate Analysis
  
- 3.2 Bivariate Analysis
+        3.2 Bivariate Analysis
  
- 3.4 Multivariate Analysis  
+        3.4 Multivariate Analysis  
  
 4. Statistical Testing
 
- 4.1 T-test
+       4.1 T-test
  
- 4.2 Chi-Square test
+       4.2 Chi-Square test
  
- 4.3 Unpaired t test
+       4.3 Unpaired t test
